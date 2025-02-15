@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1450976210377426939
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8106774434721287888}
+  m_Layer: 0
+  m_Name: Gutters
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8106774434721287888
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1450976210377426939}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7506326899181574275}
+  - {fileID: 5059127512793422533}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &434829690847192685
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8106774434721287888}
+    m_Modifications:
+    - target: {fileID: 2021393142579921770, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_Name
+      value: Gutter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+--- !u!4 &5059127512793422533 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+  m_PrefabInstance: {fileID: 434829690847192685}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2888679196012651563
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8106774434721287888}
+    m_Modifications:
+    - target: {fileID: 2021393142579921770, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_Name
+      value: Gutter (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 30.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+--- !u!4 &7506326899181574275 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4628982332459089064, guid: 38bcefa2045584d61bc02b54eab28a3d, type: 3}
+  m_PrefabInstance: {fileID: 2888679196012651563}
+  m_PrefabAsset: {fileID: 0}
