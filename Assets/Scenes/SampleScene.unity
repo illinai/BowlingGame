@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 60168212}
   - component: {fileID: 60168211}
   - component: {fileID: 60168210}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: IndicatorModel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -238,7 +238,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 268371852}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: BallAnchor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -441,7 +441,7 @@ GameObject:
   - component: {fileID: 377237701}
   - component: {fileID: 377237703}
   - component: {fileID: 377237702}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PlayerModel1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -697,7 +697,7 @@ GameObject:
   m_Component:
   - component: {fileID: 598892326}
   - component: {fileID: 598892325}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1257,7 +1257,7 @@ GameObject:
   - component: {fileID: 1121824559}
   - component: {fileID: 1121824558}
   - component: {fileID: 1121824557}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Player1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1387,7 +1387,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1657369440}
   - component: {fileID: 1657369441}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LaunchIndicator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1437,7 +1437,7 @@ GameObject:
   - component: {fileID: 1662574798}
   - component: {fileID: 1662574797}
   - component: {fileID: 1662574802}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Ball
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1587,7 +1587,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1712886585}
   - component: {fileID: 1712886584}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: wall (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
